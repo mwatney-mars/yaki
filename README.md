@@ -1,2 +1,2 @@
 # yaki
-YAKI - Yet Another Kuberadm Installer
+YAKI - Yet Another Kubernetes Installer
